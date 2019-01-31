@@ -1,0 +1,20 @@
+#content {
+  width: 900px;
+  height:674px;
+}
+.container{
+  padding-right: 28px;
+  padding-left: 28px;
+  margin-right: auto;
+  margin-left: 193px;
+  background-color: #b0b8bb;
+  border-top-right-radius: 18px;
+  border-bottom-right-radius: 18px;
+
+}
+.el-table td, .el-table th.is-leaf{
+  border-bottom:1px solid #d4d4d4;
+}
+.el-table--border td, .el-table--border th{
+  border-right: 1px solid #d4d4d4;
+}
